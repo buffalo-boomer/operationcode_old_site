@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/OperationCode/operationcode_old_site)
+
 # [Operation Code](https://operationcode.org)
 
 [![OpenCollective](https://opencollective.com/operationcode/backers/badge.svg)](#backers) 
